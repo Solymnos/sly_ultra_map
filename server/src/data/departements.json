@@ -1,0 +1,1012 @@
+[
+    {
+      "id" : 0,
+      "loc" : {
+        "lat" : 70.6378127,
+        "lon" : -160.0000419
+      },
+      "num_dep": "01",
+      "name": "Ain",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 1,
+      "loc" : {
+        "lat" : 49.4769199,
+        "lon" : 3.4417368
+      },
+      "num_dep": "02",
+      "name": "Aisne",
+      "region_name": "Hauts-de-France"
+    },
+    {
+      "id" : 2,
+      "loc" : {
+        "lat" : 46.3115552,
+        "lon" : 3.4167655
+      },
+      "num_dep": "03",
+      "name": "Allier",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 3,
+      "loc" : {
+        "lat" : 44.0778716,
+        "lon" : 6.2375947
+      },
+      "num_dep": "04",
+      "name": "Alpes-de-Haute-Provence",
+      "region_name": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "id" : 4,
+      "loc" : {
+        "lat" : 44.6008723,
+        "lon" : 6.3226072
+      },
+      "num_dep": "05",
+      "name": "Hautes-Alpes",
+      "region_name": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "id" : 5,
+      "loc" : {
+        "lat" : 43.9466791,
+        "lon" : 7.179026
+      },
+      "num_dep": "06",
+      "name": "Alpes-Maritimes",
+      "region_name": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "id" : 6,
+      "loc" : {
+        "lat" : 44.759629,
+        "lon" : 4.562443
+      },
+      "num_dep": "07",
+      "name": "Ardèche",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 7,
+      "loc" : {
+        "lat" : 49.7624642,
+        "lon" : 4.6285053
+      },
+      "num_dep": "08",
+      "name": "Ardennes",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 8,
+      "loc" : {
+        "lat" : 42.932629,
+        "lon" : 1.443469
+      },
+      "num_dep": "09",
+      "name": "Ariège",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 9,
+      "loc" : {
+        "lat" : 48.1563418,
+        "lon" : 4.3732462
+      },
+      "num_dep": 10,
+      "name": "Aube",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 10,
+      "loc" : {
+        "lat" : 43.0724667,
+        "lon" : 2.3813621
+      },
+      "num_dep": 11,
+      "name": "Aude",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 11,
+      "loc" : {
+        "lat" : 44.2179747,
+        "lon" : 2.6189273
+      },
+      "num_dep": 12,
+      "name": "Aveyron",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 12,
+      "loc" : {
+        "lat" : 43.5911679,
+        "lon" : 5.3102505
+      },
+      "num_dep": 13,
+      "name": "Bouches-du-Rhône",
+      "region_name": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "id" : 13,
+      "loc" : {
+        "lat" : 49.1213315,
+        "lon" : -0.4330578
+      },
+      "num_dep": 14,
+      "name": "Calvados",
+      "region_name": "Normandie"
+    },
+    {
+      "id" : 14,
+      "loc" : {
+        "lat" : 45.1191997,
+        "lon" : 2.6326062
+      },
+      "num_dep": 15,
+      "name": "Cantal",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 15,
+      "loc" : {
+        "lat" : 45.7519958,
+        "lon" : 0.1534761
+      },
+      "num_dep": 16,
+      "name": "Charente",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 16,
+      "loc" : {
+        "lat" : 45.74949,
+        "lon" : -0.7733188
+      },
+      "num_dep": 17,
+      "name": "Charente-Maritime",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 17,
+      "loc" : {
+        "lat" : 46.954005,
+        "lon" : 2.4671908
+      },
+      "num_dep": 18,
+      "name": "Cher",
+      "region_name": "Centre-Val de Loire"
+    },
+    {
+      "id" : 18,
+      "loc" : {
+        "lat" : 45.372114,
+        "lon" : 1.873739
+      },
+      "num_dep": 19,
+      "name": "Corrèze",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 19,
+      "loc" : {
+        "lat" : 47.51267952,
+        "lon" : 4.635412
+      },
+      "num_dep": 21,
+      "name": "Côte-d'Or",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 20,
+      "loc" : {
+        "lat" : 48.5108101,
+        "lon" : -3.3263676
+      },
+      "num_dep": 22,
+      "name": "Côtes-d'Armor",
+      "region_name": "Bretagne"
+    },
+    {
+      "id" : 21,
+      "loc" : {
+        "lat" : 46.037763,
+        "lon" : 2.062783
+      },
+      "num_dep": 23,
+      "name": "Creuse",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 22,
+      "loc" : {
+        "lat" : 45.1469486,
+        "lon" : 0.7572205
+      },
+      "num_dep": 24,
+      "name": "Dordogne",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 23,
+      "loc" : {
+        "lat" : 46.9276,
+        "lon" : 6.349001
+      },
+      "num_dep": 25,
+      "name": "Doubs",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 24,
+      "loc" : {
+        "lat" : 44.7311896,
+        "lon" : 5.2266675
+      },
+      "num_dep": 26,
+      "name": "Drôme",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 25,
+      "loc" : {
+        "lat" : 49.1181763,
+        "lon" : 0.9582114
+      },
+      "num_dep": 27,
+      "name": "Eure",
+      "region_name": "Normandie"
+    },
+    {
+      "id" : 26,
+      "loc" : {
+        "lat" : 48.5525242,
+        "lon" : 1.1989814
+      },
+      "num_dep": 28,
+      "name": "Eure-et-Loir",
+      "region_name": "Centre-Val de Loire"
+    },
+    {
+      "id" : 27,
+      "loc" : {
+        "lat" : 48.2520249,
+        "lon" : -3.9300525
+      },
+      "num_dep": 29,
+      "name": "Finistère",
+      "region_name": "Bretagne"
+    },
+    {
+      "id" : 28,
+      "loc" : {
+        "lat" : 41.8102633,
+        "lon" : 8.9245343
+      },
+      "num_dep": "2A",
+      "name": "Corse-du-Sud",
+      "region_name": "Corse"
+    },
+    {
+      "id" : 29,
+      "loc" : {
+        "lat" : 42.4097877,
+        "lon" : 9.2785583
+      },
+      "num_dep": "2B",
+      "name": "Haute-Corse",
+      "region_name": "Corse"
+    },
+    {
+      "id" : 30,
+      "loc" : {
+        "lat" : 43.9446996,
+        "lon" : 4.1513764
+      },
+      "num_dep": 30,
+      "name": "Gard",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 31,
+      "loc" : {
+        "lat" : 43.4010462,
+        "lon" : 1.135302
+      },
+      "num_dep": 31,
+      "name": "Haute-Garonne",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 32,
+      "loc" : {
+        "lat" : 43.6366479,
+        "lon" : 0.4502368
+      },
+      "num_dep": 32,
+      "name": "Gers",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 33,
+      "loc" : {
+        "lat" : 44.849665,
+        "lon" : -0.4502368
+      },
+      "num_dep": 33,
+      "name": "Gironde",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 34,
+      "loc" : {
+        "lat" : 43.5912356,
+        "lon" : 3.2583626
+      },
+      "num_dep": 34,
+      "name": "Hérault",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 35,
+      "loc" : {
+        "lat" : 48.2292016,
+        "lon" : -1.5300695
+      },
+      "num_dep": 35,
+      "name": "Ille-et-Vilaine",
+      "region_name": "Bretagne"
+    },
+    {
+      "id" : 36,
+      "loc" : {
+        "lat" : 46.6613966,
+        "lon" : 1.4482662
+      },
+      "num_dep": 36,
+      "name": "Indre",
+      "region_name": "Centre-Val de Loire"
+    },
+    {
+      "id" : 37,
+      "loc" : {
+        "lat" : 47.2894925,
+        "lon" : 0.816097
+      },
+      "num_dep": 37,
+      "name": "Indre-et-Loire",
+      "region_name": "Centre-Val de Loire"
+    },
+    {
+      "id" : 38,
+      "loc" : {
+        "lat" : 44.9957745,
+        "lon" : 5.9293476
+      },
+      "num_dep": 38,
+      "name": "Isère",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 39,
+      "loc" : {
+        "lat" : 46.762475,
+        "lon" : 5.6729159
+      },
+      "num_dep": 39,
+      "name": "Jura",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 40,
+      "loc" : {
+        "lat" : 43.9412045,
+        "lon" : -0.7532809
+      },
+      "num_dep": 40,
+      "name": "Landes",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 41,
+      "loc" : {
+        "lat" : 47.6761905,
+        "lon" : 1.4159072
+      },
+      "num_dep": 41,
+      "name": "Loir-et-Cher",
+      "region_name": "Centre-Val de Loire"
+    },
+    {
+      "id" : 42,
+      "loc" : {
+        "lat" : 45.9846475,
+        "lon" : 4.052545
+      },
+      "num_dep": 42,
+      "name": "Loire",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 43,
+      "loc" : {
+        "lat" : 45.082123,
+        "lon" : 3.926637
+      },
+      "num_dep": 43,
+      "name": "Haute-Loire",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 44,
+      "loc" : {
+        "lat" : 47.2780468,
+        "lon" : -1.8157647
+      },
+      "num_dep": 44,
+      "name": "Loire-Atlantique",
+      "region_name": "Pays de la Loire"
+    },
+    {
+      "id" : 45,
+      "loc" : {
+        "lat" : 47.900771,
+        "lon" : 2.2018172
+      },
+      "num_dep": 45,
+      "name": "Loiret",
+      "region_name": "Centre-Val de Loire"
+    },
+    {
+      "id" : 46,
+      "loc" : {
+        "lat" : 44.5379358,
+        "lon" : 1.6760691
+      },
+      "num_dep": 46,
+      "name": "Lot",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 47,
+      "loc" : {
+        "lat" : 44.2470173,
+        "lon" : 0.4502368
+      },
+      "num_dep": 47,
+      "name": "Lot-et-Garonne",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 48,
+      "loc" : {
+        "lat" : 44.494203,
+        "lon" : 3.581269
+      },
+      "num_dep": 48,
+      "name": "Lozère",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 49,
+      "loc" : {
+        "lat" : 47.2913545,
+        "lon" : -0.4877852
+      },
+      "num_dep": 49,
+      "name": "Maine-et-Loire",
+      "region_name": "Pays de la Loire"
+    },
+    {
+      "id" : 50,
+      "loc" : {
+        "lat" : 50.134664,
+        "lon" : -0.357056
+      },
+      "num_dep": 50,
+      "name": "Manche",
+      "region_name": "Normandie"
+    },
+    {
+      "id" : 51,
+      "loc" : {
+        "lat" : 49.128754,
+        "lon" : 4.1475445
+      },
+      "num_dep": 51,
+      "name": "Marne",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 52,
+      "loc" : {
+        "lat" : 48.1260968,
+        "lon" : 5.1071322
+      },
+      "num_dep": 52,
+      "name": "Haute-Marne",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 53,
+      "loc" : {
+        "lat" : 48.3061239,
+        "lon" : -0.620935
+      },
+      "num_dep": 53,
+      "name": "Mayenne",
+      "region_name": "Pays de la Loire"
+    },
+    {
+      "id" : 54,
+      "loc" : {
+        "lat" : 48.7997007,
+        "lon" : 6.0947014
+      },
+      "num_dep": 54,
+      "name": "Meurthe-et-Moselle",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 55,
+      "loc" : {
+        "lat" : 49.082432,
+        "lon" : 5.282400
+      },
+      "num_dep": 55,
+      "name": "Meuse",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 56,
+      "loc" : {
+        "lat" : 47.8852929,
+        "lon" : -2.9001865
+      },
+      "num_dep": 56,
+      "name": "Morbihan",
+      "region_name": "Bretagne"
+    },
+    {
+      "id" : 57,
+      "loc" : {
+        "lat" : 49.0983839,
+        "lon" : 6.5527641
+      },
+      "num_dep": 57,
+      "name": "Moselle",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 58,
+      "loc" : {
+        "lat" : 47.2381708,
+        "lon" : 3.5294522
+      },
+      "num_dep": 58,
+      "name": "Nièvre",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 59,
+      "loc" : {
+        "lat" : 50.6333,
+        "lon" : 3.0667
+      },
+      "num_dep": 59,
+      "name": "Nord",
+      "region_name": "Hauts-de-France"
+    },
+    {
+      "id" : 60,
+      "loc" : {
+        "lat" : 49.4214568,
+        "lon" : 2.4146396
+      },
+      "num_dep": 60,
+      "name": "Oise",
+      "region_name": "Hauts-de-France"
+    },
+    {
+      "id" : 61,
+      "loc" : {
+        "lat" : 48.6388567,
+        "lon" : 0.0848201
+      },
+      "num_dep": 61,
+      "name": "Orne",
+      "region_name": "Normandie"
+    },
+    {
+      "id" : 62,
+      "loc" : {
+        "lat" : 50.5732769,
+        "lon" : 2.3244679
+      },
+      "num_dep": 62,
+      "name": "Pas-de-Calais",
+      "region_name": "Hauts-de-France"
+    },
+    {
+      "id" : 63,
+      "loc" : {
+        "lat" : 45.7725738,
+        "lon" : 2.9644431
+      },
+      "num_dep": 63,
+      "name": "Puy-de-Dôme",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 64,
+      "loc" : {
+        "lat" : 43.3269942,
+        "lon" : -0.7532809
+      },
+      "num_dep": 64,
+      "name": "Pyrénées-Atlantiques",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 65,
+      "loc" : {
+        "lat" : 43.0193924,
+        "lon" : 0.1494988
+      },
+      "num_dep": 65,
+      "name": "Hautes-Pyrénées",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 66,
+      "loc" : {
+        "lat" : 42.6012912,
+        "lon" : 2.539603
+      },
+      "num_dep": 66,
+      "name": "Pyrénées-Orientales",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 67,
+      "loc" : {
+        "lat" : 48.6343172,
+        "lon" : 7.5252938
+      },
+      "num_dep": 67,
+      "name": "Bas-Rhin",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 68,
+      "loc" : {
+        "lat" : 47.9315041,
+        "lon" : 7.2441099
+      },
+      "num_dep": 68,
+      "name": "Haut-Rhin",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 69,
+      "loc" : {
+        "lat" : 45.7351456,
+        "lon" : 4.6108043
+      },
+      "num_dep": 69,
+      "name": "Rhône",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 70,
+      "loc" : {
+        "lat" : 47.756981,
+        "lon" : 6.155628
+      },
+      "num_dep": 70,
+      "name": "Haute-Saône",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 71,
+      "loc" : {
+        "lat" : 46.5827512,
+        "lon" : 4.486671
+      },
+      "num_dep": 71,
+      "name": "Saône-et-Loire",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 72,
+      "loc" : {
+        "lat" : 47.9217014,
+        "lon" : 0.1655803
+      },
+      "num_dep": 72,
+      "name": "Sarthe",
+      "region_name": "Pays de la Loire"
+    },
+    {
+      "id" : 73,
+      "loc" : {
+        "lat" : 44.771079,
+        "lon" : 5.742806
+      },
+      "num_dep": 73,
+      "name": "Savoie",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 74,
+      "loc" : {
+        "lat" : 46.1756788,
+        "lon" : 6.5389621
+      },
+      "num_dep": 74,
+      "name": "Haute-Savoie",
+      "region_name": "Auvergne-Rhône-Alpes"
+    },
+    {
+      "id" : 75,
+      "loc" : {
+        "lat" : 48.856614,
+        "lon" : 2.3522219
+      },
+      "num_dep": 75,
+      "name": "Paris",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 76,
+      "loc" : {
+        "lat" : 49.922992,
+        "lon" : 1.077483
+      },
+      "num_dep": 76,
+      "name": "Seine-Maritime",
+      "region_name": "Normandie"
+    },
+    {
+      "id" : 77,
+      "loc" : {
+        "lat" : 48.841082,
+        "lon" : 2.999366
+      },
+      "num_dep": 77,
+      "name": "Seine-et-Marne",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 78,
+      "loc" : {
+        "lat" : 48.7850939,
+        "lon" : 1.8256572
+      },
+      "num_dep": 78,
+      "name": "Yvelines",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 79,
+      "loc" : {
+        "lat" : 46.5926541,
+        "lon" : -0.3962844
+      },
+      "num_dep": 79,
+      "name": "Deux-Sèvres",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 80,
+      "loc" : {
+        "lat" : 49.914518,
+        "lon" : 2.2707095
+      },
+      "num_dep": 80,
+      "name": "Somme",
+      "region_name": "Hauts-de-France"
+    },
+    {
+      "id" : 81,
+      "loc" : {
+        "lat" : 43.9264401,
+        "lon" : 1.9881527
+      },
+      "num_dep": 81,
+      "name": "Tarn",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 82,
+      "loc" : {
+        "lat" : 44.0126679,
+        "lon" : 1.2891036
+      },
+      "num_dep": 82,
+      "name": "Tarn-et-Garonne",
+      "region_name": "Occitanie"
+    },
+    {
+      "id" : 83,
+      "loc" : {
+        "lat" : 44.5726618,
+        "lon" : 6.6799921
+      },
+      "num_dep": 83,
+      "name": "Var",
+      "region_name": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "id" : 84,
+      "loc" : {
+        "lat" : 44.0565054,
+        "lon" : 5.1432068
+      },
+      "num_dep": 84,
+      "name": "Vaucluse",
+      "region_name": "Provence-Alpes-Côte d'Azur"
+    },
+    {
+      "id" : 85,
+      "loc" : {
+        "lat" : 46.6613966,
+        "lon" : -1.4482662
+      },
+      "num_dep": 85,
+      "name": "Vendée",
+      "region_name": "Pays de la Loire"
+    },
+    {
+      "id" : 86,
+      "loc" : {
+        "lat" : 46.580224,
+        "lon" : 0.340375
+      },
+      "num_dep": 86,
+      "name": "Vienne",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 87,
+      "loc" : {
+        "lat" : 45.7435173,
+        "lon" : 1.4025484
+      },
+      "num_dep": 87,
+      "name": "Haute-Vienne",
+      "region_name": "Nouvelle-Aquitaine"
+    },
+    {
+      "id" : 88,
+      "loc" : {
+        "lat" : 48.1446427,
+        "lon" : 6.3355935
+      },
+      "num_dep": 88,
+      "name": "Vosges",
+      "region_name": "Grand Est"
+    },
+    {
+      "id" : 89,
+      "loc" : {
+        "lat" : 47.8652728,
+        "lon" : 3.6079823
+      },
+      "num_dep": 89,
+      "name": "Yonne",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 90,
+      "loc" : {
+        "lat" : 47.5946573,
+        "lon" : 6.9207716
+      },
+      "num_dep": 90,
+      "name": "Territoire de Belfort",
+      "region_name": "Bourgogne-Franche-Comté"
+    },
+    {
+      "id" : 91,
+      "loc" : {
+        "lat" : 48.4585698,
+        "lon" : 2.1569416
+      },
+      "num_dep": 91,
+      "name": "Essonne",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 92,
+      "loc" : {
+        "lat" : 48.828508,
+        "lon" : 2.2188068
+      },
+      "num_dep": 92,
+      "name": "Hauts-de-Seine",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 93,
+      "loc" : {
+        "lat" : 48.9137455,
+        "lon" : 2.4845729
+      },
+      "num_dep": 93,
+      "name": "Seine-Saint-Denis",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 94,
+      "loc" : {
+        "lat" : 48.7931426,
+        "lon" : 2.4740337
+      },
+      "num_dep": 94,
+      "name": "Val-de-Marne",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 95,
+      "loc" : {
+        "lat" : 49.0615901,
+        "lon" : 2.1581351
+      },
+      "num_dep": 95,
+      "name": "Val-d'Oise",
+      "region_name": "Île-de-France"
+    },
+    {
+      "id" : 96,
+      "loc" : {
+        "lat" : 16.265,
+        "lon" : -61.551
+      },
+      "num_dep": 971,
+      "name": "Guadeloupe",
+      "region_name": "Guadeloupe"
+    },
+    {
+      "id" : 97,
+      "loc" : {
+        "lat" : 14.641528,
+        "lon" : -61.024174
+      },
+      "num_dep": 972,
+      "name": "Martinique",
+      "region_name": "Martinique"
+    },
+    {
+      "id" : 98,
+      "loc" : {
+        "lat" : 3.933889,
+        "lon" : -53.125782
+      },
+      "num_dep": 973,
+      "name": "Guyane",
+      "region_name": "Guyane"
+    },
+    {
+      "id" : 99,
+      "loc" : {
+        "lat" : -21.115141,
+        "lon" : 55.536384
+      },
+      "num_dep": 974,
+      "name": "La Réunion",
+      "region_name": "La Réunion"
+    },
+    {
+      "id" : 100,
+      "loc" : {
+        "lat" : -12.827500,
+        "lon" : 45.166244
+      },
+      "num_dep": 976,
+      "name": "Mayotte",
+      "region_name": "Mayotte"
+    }
+]
